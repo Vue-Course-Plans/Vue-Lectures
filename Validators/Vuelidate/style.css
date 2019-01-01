@@ -1,0 +1,7 @@
+input.error, input.error:focus {
+    border-color: #f79483;
+}
+input.valid, input.valid:focus {
+    border-color: #41B883;
+}
+
